@@ -1,0 +1,8 @@
+{
+  "name": "zangle",
+  "version": "0.0.1",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "latest"
+  }
+}
